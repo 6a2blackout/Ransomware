@@ -19,7 +19,7 @@ This is a simple Ransomware I designed using python and python libraries.
 
 
 🧠 What I learned:
-- I learned how to ransomware works, and how to create it.
+- I learned how ransomware works, and how to create it.
 - This project further developed my programming skills, and particularly my Python abilities.
 
 
